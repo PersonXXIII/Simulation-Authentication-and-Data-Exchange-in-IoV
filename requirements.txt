@@ -1,0 +1,11 @@
+azure-digitaltwins-core
+azure-identity
+python-dotenv
+web3
+dash
+plotly
+matplotlib
+ecdsa
+traci
+sumolib
+pandas
